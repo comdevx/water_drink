@@ -1,3 +1,10 @@
+/*
+ * @Author: ComdevX 
+ * @Email: comdevx@gmail.com 
+ * @Date: 2018-08-31 02:35:00 
+ * @Last Modified by:   ComdevX 
+ * @Last Modified time: 2018-08-31 02:35:00 
+ */
 import React, { Component } from 'react'
 import axios from 'axios'
 import _ from 'lodash'
